@@ -11,3 +11,5 @@ spotify.com
 *.pandora.com
 pandora.com
 play.itunes.apple.com
+iheartradio.com
+*.iheartradio.com
