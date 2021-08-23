@@ -13,3 +13,5 @@ pandora.com
 play.itunes.apple.com
 iheartradio.com
 *.iheartradio.com
+*.iheart.com
+iheart.com
