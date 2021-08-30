@@ -16,3 +16,4 @@ iheartradio.com
 *.iheart.com
 iheart.com
 playerservices.live.streamtheworld.com
+music.amazon.com
