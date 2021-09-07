@@ -18,3 +18,4 @@ iheart.com
 playerservices.live.streamtheworld.com
 music.amazon.com
 *.p-cdn.us
+*.spotifycdn.com
