@@ -19,3 +19,4 @@ playerservices.live.streamtheworld.com
 music.amazon.com
 *.p-cdn.us
 *.spotifycdn.com
+content-images.p-cdn.com/
