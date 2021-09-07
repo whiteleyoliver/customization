@@ -17,6 +17,6 @@ iheartradio.com
 iheart.com
 playerservices.live.streamtheworld.com
 music.amazon.com
-*.p-cdn.us
+*.p-cdn.us/
 *.spotifycdn.com
 content-images.p-cdn.com/
