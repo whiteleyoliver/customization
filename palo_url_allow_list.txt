@@ -20,3 +20,4 @@ music.amazon.com
 *.p-cdn.us/
 *.spotifycdn.com
 content-images.p-cdn.com/
+radio-activity.itunes.apple.com/
