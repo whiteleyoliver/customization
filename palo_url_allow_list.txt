@@ -22,6 +22,6 @@ music.amazon.com
 content-images.p-cdn.com/
 radio-activity.itunes.apple.com/
 *.ermapper.com
-.ermapper.com
+ermapper.com
 *.soundcloud.com
 soundcloud.com
