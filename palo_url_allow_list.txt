@@ -21,3 +21,5 @@ music.amazon.com
 *.spotifycdn.com
 content-images.p-cdn.com/
 radio-activity.itunes.apple.com/
+*.ermapper.com
+.ermapper.com
