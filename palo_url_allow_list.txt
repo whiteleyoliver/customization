@@ -23,3 +23,5 @@ content-images.p-cdn.com/
 radio-activity.itunes.apple.com/
 *.soundcloud.com
 soundcloud.com
+youtu.be/
+*.youtu.be/
