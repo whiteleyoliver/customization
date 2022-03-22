@@ -1,2 +1,2 @@
 net use W: /delete
-net use W: \\files.whiteleyoliver.local\engineering /persistent:yes
+net use W: \\bmtfiles.whiteleyoliver.local\engineering /persistent:yes
